@@ -4,7 +4,7 @@ Vite plugin to create manifest with symfony-like notation
 
 ## How to use
 
-```
+``` javascript
 defineConfig({
     ...
     plugins: [
